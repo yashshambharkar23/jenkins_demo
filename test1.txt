@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is CCEB-0CD7
+
+ Directory of C:\Users\yash.shambharkar\Desktop\Project_demo
+
+05-01-2023  11:49    <DIR>          .
+05-01-2023  11:36    <DIR>          ..
+05-01-2023  11:49                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  192,124,960,768 bytes free
